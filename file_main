@@ -1,0 +1,9 @@
+name = input("What is your name? : ")
+if name == "Adeeb":
+    print("Welcome " + name + "!" "This is your personal assistant, Alexa." )
+    input("What would you like me to do? : ")
+    print("You are 17 years old.")
+    input("What else can i do for you? : ")
+    print("Good evening " + name)
+else :
+    print("Goodbye " + name)
